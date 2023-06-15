@@ -2,8 +2,6 @@ interface grafica com PySimpleGUI
 
 ## Projeto de Autenticação de Usuário com Interface Gráfica em Python utilizando PySimpleGUI
 
-<br/>
-
 ### Descrição:
 
 O projeto "Autenticação de Usuário" é um aplicativo simples que utiliza os conceitos de módulos Python, interface gráfica com o PySimpleGUI e lógica de programação para criar um formulário de login. O objetivo do projeto é permitir que os usuários insiram seu e-mail e senha para acessar o sistema.
