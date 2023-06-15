@@ -28,6 +28,7 @@ Com essa aplicação simples, é possível aprender sobre a modularidade do Pyth
 
 Para inicia a aplicação basta fazer o clone do repositorio e colar o seguinte comando no terminal
 
+    pip install PySimpleGUI
     python main.py
 
 projeto criado para fins de estudo
